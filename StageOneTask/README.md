@@ -14,10 +14,10 @@ A simple shopping app built with Flutter that displays a list of products and pr
 
 ## Screenshots
 
-![ProductsScreen]()
-![CheckoutScreen]()
-![Plain Checkout Screen]()
-![OrderSuccess_Screen]()
+![screenshot1](screenshots/ss1.jpg)
+![screenshot2](screenshots/ss2.jpg)
+![screenshot3](screenshots/ss3.jpg)
+![screenshot1](screenshots/ss4.jpg)
 
 ## APK Download
 
@@ -65,3 +65,4 @@ The APK file will be generated in the build/app/outputs/flutter-apk/ directory.
 
 **Appetize.io Showcase**
 You can try the app virtually via Appetize.io [here](https://appetize.io/app/exlss4v7txy6feno7fptutwiii).
+
