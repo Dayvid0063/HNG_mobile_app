@@ -64,4 +64,4 @@ flutter build apk
 The APK file will be generated in the build/app/outputs/flutter-apk/ directory.
 
 **Appetize.io Showcase**
-You can try the app virtually via Appetize.io [here]().
+You can try the app virtually via Appetize.io [here]()..
