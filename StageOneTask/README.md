@@ -21,7 +21,7 @@ A simple shopping app built with Flutter that displays a list of products and pr
 
 ## APK Download
 
-Download the APK file for the app [here]().
+Download the APK file for the app [here](https://upload-apk.com/en/grOUyRkVjc3vSUx).
 
 ## Setup Instructions
 
@@ -39,7 +39,7 @@ Follow these instructions to set up and run the app locally.
    ```bash
    git clone https://github.com/Dayvid0063/HNG_mobile_app
    cd StageOneTask
-   cd shoppingapp
+   cd shopping_app
    ```
    
 2. **Get the dependencies:**
@@ -64,4 +64,4 @@ flutter build apk
 The APK file will be generated in the build/app/outputs/flutter-apk/ directory.
 
 **Appetize.io Showcase**
-You can try the app virtually via Appetize.io [here]()..
+You can try the app virtually via Appetize.io [here](https://appetize.io/app/exlss4v7txy6feno7fptutwiii).
